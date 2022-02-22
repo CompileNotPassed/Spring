@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "headfile.h": "c",
+        "function.h": "c",
+        "isr.h": "c",
+        "seekfree_18tft.h": "c",
+        "__config": "c",
+        "seekfree_printf.h": "c",
+        "cstdlib": "c"
+    }
+}
